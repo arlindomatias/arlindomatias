@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - I'm a wet lab scientist currently working on dry lab skills
 - See some of my projects in the "projects" repository
-- See my [website](sites.google.com/view/arlindomatias) for mor information
+- Here is my [website](sites.google.com/view/arlindomatias) for mor information
 
