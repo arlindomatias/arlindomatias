@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img width="1584" height="396" alt="Banner profissional" src="https://github.com/user-attachments/assets/e7187079-e5b2-4545-90dc-1c00231d0665" />
 
-- I'm a wet lab scientist currently learning dry lab skills
+- I'm a wet lab scientist currently working on dry lab skills
 - See some of my projects in the "projects" repository
 - See my [website](sites.google.com/view/arlindomatias) for mor information
 
