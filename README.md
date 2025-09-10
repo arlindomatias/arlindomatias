@@ -6,4 +6,8 @@
 - See some of my projects [here](github.com/arlindomatias/projects)
 - Here is my [website](sites.google.com/view/arlindomatias) for more information and contact
 
-
+## Languages
+- R
+- Python
+- SQL
+- LaTeX
