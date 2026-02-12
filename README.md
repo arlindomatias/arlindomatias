@@ -4,8 +4,8 @@
 
 - I'm a wet lab scientist since 2016, currently working on dry lab skills since 2022
 - Interested in bioinformatics, data science and data engineering
-- See some of my projects (in development) [here](github.com/arlindomatias/projects)
-- Here is my [website](sites.google.com/view/arlindomatias) for more information and contact
+- See some of my projects (in development) [here](github.com/arlindomatias/projects](https://github.com/arlindomatias/projects)
+- Here is my [website](arlindomatiaslab.wordpress.com) for more information and contact
 
 ## Languages
 - R
