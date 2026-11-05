@@ -13,4 +13,3 @@
 - Python
 - SQL
 - Bash
-- LaTeX
